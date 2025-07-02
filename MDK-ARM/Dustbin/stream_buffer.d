@@ -1,0 +1,14 @@
+dustbin\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
+dustbin\stream_buffer.o: D:\ARM\ARMCC\Bin\..\include\stdint.h
+dustbin\stream_buffer.o: D:\ARM\ARMCC\Bin\..\include\string.h
+dustbin\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+dustbin\stream_buffer.o: D:\ARM\ARMCC\Bin\..\include\stddef.h
+dustbin\stream_buffer.o: ../Core/Inc/FreeRTOSConfig.h
+dustbin\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+dustbin\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+dustbin\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+dustbin\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+dustbin\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+dustbin\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+dustbin\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+dustbin\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stream_buffer.h
